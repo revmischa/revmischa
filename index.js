@@ -1,4 +1,3 @@
-require("isomorphic-unfetch");
 const { promises: fs } = require("fs");
 const path = require("path");
 const { banners } = require("./banners");
