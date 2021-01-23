@@ -23,9 +23,7 @@ jobs:
 
       - name: Add to git repo
         run: |
-          git config pull.rebase false
-          git pull
-          git add .
+          git add README.md
           git config --global user.name "RevMischa Bot"
           git config --global user.email "bot@mish.dev"
           git commit -m "[Automated] README recalibrated"
