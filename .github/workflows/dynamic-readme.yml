@@ -23,11 +23,11 @@ jobs:
 
       - name: Add to git repo
         run: |
-          git pull --rebase origin master
           git add README.md
           git config --global user.name "RevMischa Bot"
           git config --global user.email "bot@mish.dev"
           git commit -m "[Automated] README recalibrated"
+          git pull --rebase origin master
       - name: Push
         uses: ad-m/github-push-action@master
         with:
