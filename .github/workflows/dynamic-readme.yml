@@ -21,6 +21,10 @@ jobs:
 
       - run: node .
 
+      - uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          feed_list: "https://spiegelmock.com/feed/"
+
       - name: Add to git repo
         run: |
           git add README.md
@@ -32,12 +36,3 @@ jobs:
         uses: ad-m/github-push-action@master
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-
-  update-readme-with-blog:
-    name: Update this repo's README with latest blog posts
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v2
-      - uses: gautamkrishnar/blog-post-workflow@master
-        with:
-          feed_list: "https://spiegelmock.com/feed/"
