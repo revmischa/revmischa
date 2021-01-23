@@ -2,7 +2,7 @@ name: Dynamic README
 on:
   push:
   schedule:
-    - cron: "*/5 * * * *"
+    - cron: "0/5 * * * *"
   workflow_dispatch:
 jobs:
   rewrite-readme:
