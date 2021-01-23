@@ -125,6 +125,5 @@ module.exports.banners = [
                                                                                              J88"
                                                                                              @%
                                                                                            :"
-
 `
 ];
