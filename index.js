@@ -11,7 +11,10 @@ async function main() {
 
   console.log(banner);
 
-  const readme = readmeTemplate.replace("{banner}", banner);
+  const lastUpdate = new Date().toLocaleString();
+
+  let readme = readmeTemplate.replace("{banner}", banner);
+  readme = readme.replace("{date-updated}", lastUpdate);
 
   await fs.writeFile("README.md", readme);
 }
