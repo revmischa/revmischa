@@ -21,7 +21,7 @@ Updated: 4/26/2021, 5:31:09 PM UTC
 
 # 📩 Latest [Blog Posts](https://spiegelmock.com)
 <!-- BLOG-POST-LIST:START -->
-- [Web Services with AWS CDK](https://spiegelmock.com/2021/01/25/web-services-with-aws-cdk/)
+- [Web Services with AWS Cloud Development Kit (CDK)](https://spiegelmock.com/2021/01/25/web-services-with-aws-cdk/)
 - [Is Software Contracting For You?](https://spiegelmock.com/2020/10/20/is-software-contracting-for-you/)
 - [Communication Tips for Engineers](https://spiegelmock.com/2020/07/22/communication-tips-for-engineers/)
 - [Decentralizing Social Media](https://spiegelmock.com/2020/05/28/decentralizing-social-media/)
@@ -29,6 +29,7 @@ Updated: 4/26/2021, 5:31:09 PM UTC
 <!-- BLOG-POST-LIST:END -->
 
 # 📺 Latest [Talks](https://github.com/revmischa/talks)
+- [All About AWS Cloud Development Kit (CDK)](https://www.youtube.com/watch?v=ikTqfkWBf1Y)
 - [Building A Real-World IoT Application From Start to Finish With AWS](https://www.youtube.com/watch?v=vJ4Gjn0Bmi0)
 - [Serverless Application Architecture](https://www.youtube.com/watch?v=rXPwLZJ9l2M)
 - [Intro to AWS Lambda](https://www.youtube.com/watch?v=bGzty_IUDP0)
