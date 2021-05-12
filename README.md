@@ -1,16 +1,20 @@
 ```
 
-                                    d8b                888
-                                    Y8P                888
-                                                       888
-888d888 .d88b. 888  88888888b.d88b. 888.d8888b  .d8888b88888b.  8888b.
-888P"  d8P  Y8b888  888888 "888 "88b88888K     d88P"   888 "88b    "88b
-888    88888888Y88  88P888  888  888888"Y8888b.888     888  888.d888888
-888    Y8b.     Y8bd8P 888  888  888888     X88Y88b.   888  888888  888
-888     "Y8888   Y88P  888  888  888888 88888P' "Y8888P888  888"Y888888
+                                                     .         .
+8 888888888o.   8 8888888888 `8.`888b           ,8' ,8.       ,8.           8 8888    d888888o.       ,o888888o.    8 8888        8          .8.
+8 8888    `88.  8 8888        `8.`888b         ,8' ,888.     ,888.          8 8888  .`8888:' `88.    8888     `88.  8 8888        8         .888.
+8 8888     `88  8 8888         `8.`888b       ,8' .`8888.   .`8888.         8 8888  8.`8888.   Y8 ,8 8888       `8. 8 8888        8        :88888.
+8 8888     ,88  8 8888          `8.`888b     ,8' ,8.`8888. ,8.`8888.        8 8888  `8.`8888.     88 8888           8 8888        8       . `88888.
+8 8888.   ,88'  8 888888888888   `8.`888b   ,8' ,8'8.`8888,8^8.`8888.       8 8888   `8.`8888.    88 8888           8 8888        8      .8. `88888.
+8 888888888P'   8 8888            `8.`888b ,8' ,8' `8.`8888' `8.`8888.      8 8888    `8.`8888.   88 8888           8 8888        8     .8`8. `88888.
+8 8888`8b       8 8888             `8.`888b8' ,8'   `8.`88'   `8.`8888.     8 8888     `8.`8888.  88 8888           8 8888888888888    .8' `8. `88888.
+8 8888 `8b.     8 8888              `8.`888' ,8'     `8.`'     `8.`8888.    8 8888 8b   `8.`8888. `8 8888       .8' 8 8888        8   .8'   `8. `88888.
+8 8888   `8b.   8 8888               `8.`8' ,8'       `8        `8.`8888.   8 8888 `8b.  ;8.`8888    8888     ,88'  8 8888        8  .888888888. `88888.
+8 8888     `88. 8 888888888888        `8.` ,8'         `         `8.`8888.  8 8888  `Y8888P ,88P'     `8888888P'    8 8888        8 .8'       `8. `88888.
 
 
-Updated: 5/12/2021, 6:13:05 PM UTC
+
+Updated: 5/12/2021, 6:55:47 PM UTC
 ```
 
 ![GitHub User's stars](https://img.shields.io/github/stars/revmischa?style=for-the-badge&logoColor=white&color=1CA2F1&logo=github)
@@ -23,11 +27,6 @@ Updated: 5/12/2021, 6:13:05 PM UTC
 
 # 📩 Latest [Blog Posts](https://spiegelmock.com)
 <!-- BLOG-POST-LIST:START -->
-- [Web Services with AWS CDK](https://spiegelmock.com/2021/01/25/web-services-with-aws-cdk/)
-- [Is Software Contracting For You?](https://spiegelmock.com/2020/10/20/is-software-contracting-for-you/)
-- [Communication Tips for Engineers](https://spiegelmock.com/2020/07/22/communication-tips-for-engineers/)
-- [Decentralizing Social Media](https://spiegelmock.com/2020/05/28/decentralizing-social-media/)
-- [Will America Ever Be A Socialist Country?](https://spiegelmock.com/2020/02/25/will-america-ever-be-a-socialist-country/)
 <!-- BLOG-POST-LIST:END -->
 
 # 📺 Latest [Talks](https://github.com/revmischa/talks)
