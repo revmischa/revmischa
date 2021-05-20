@@ -1,15 +1,20 @@
 ```
 
-                                                    __
-                                 __                /\ \
- _ __    __   __  __    ___ ___ /\_\    ____    ___\ \ \___      __
-/\`'__\/'__`\/\ \/\ \ /' __` __`\/\ \  /',__\  /'___\ \  _ `\  /'__`\
-\ \ \//\  __/\ \ \_/ |/\ \/\ \/\ \ \ \/\__, `\/\ \__/\ \ \ \ \/\ \L\.\_
- \ \_\\ \____\\ \___/ \ \_\ \_\ \_\ \_\/\____/\ \____\\ \_\ \_\ \__/.\_\
-  \/_/ \/____/ \/__/   \/_/\/_/\/_/\/_/\/___/  \/____/ \/_/\/_/\/__/\/_/
+                                                     .         .
+8 888888888o.   8 8888888888 `8.`888b           ,8' ,8.       ,8.           8 8888    d888888o.       ,o888888o.    8 8888        8          .8.
+8 8888    `88.  8 8888        `8.`888b         ,8' ,888.     ,888.          8 8888  .`8888:' `88.    8888     `88.  8 8888        8         .888.
+8 8888     `88  8 8888         `8.`888b       ,8' .`8888.   .`8888.         8 8888  8.`8888.   Y8 ,8 8888       `8. 8 8888        8        :88888.
+8 8888     ,88  8 8888          `8.`888b     ,8' ,8.`8888. ,8.`8888.        8 8888  `8.`8888.     88 8888           8 8888        8       . `88888.
+8 8888.   ,88'  8 888888888888   `8.`888b   ,8' ,8'8.`8888,8^8.`8888.       8 8888   `8.`8888.    88 8888           8 8888        8      .8. `88888.
+8 888888888P'   8 8888            `8.`888b ,8' ,8' `8.`8888' `8.`8888.      8 8888    `8.`8888.   88 8888           8 8888        8     .8`8. `88888.
+8 8888`8b       8 8888             `8.`888b8' ,8'   `8.`88'   `8.`8888.     8 8888     `8.`8888.  88 8888           8 8888888888888    .8' `8. `88888.
+8 8888 `8b.     8 8888              `8.`888' ,8'     `8.`'     `8.`8888.    8 8888 8b   `8.`8888. `8 8888       .8' 8 8888        8   .8'   `8. `88888.
+8 8888   `8b.   8 8888               `8.`8' ,8'       `8        `8.`8888.   8 8888 `8b.  ;8.`8888    8888     ,88'  8 8888        8  .888888888. `88888.
+8 8888     `88. 8 888888888888        `8.` ,8'         `         `8.`8888.  8 8888  `Y8888P ,88P'     `8888888P'    8 8888        8 .8'       `8. `88888.
 
 
-Updated: 5/20/2021, 8:44:48 PM UTC
+
+Updated: 5/20/2021, 8:53:14 PM UTC
 ```
 
 ![GitHub User's stars](https://img.shields.io/github/stars/revmischa?style=for-the-badge&logoColor=white&color=1CA2F1&logo=github)
@@ -22,11 +27,6 @@ Updated: 5/20/2021, 8:44:48 PM UTC
 
 # 📩 Latest [Blog Posts](https://spiegelmock.com)
 <!-- BLOG-POST-LIST:START -->
-- [Web Services with AWS CDK](https://spiegelmock.com/2021/01/25/web-services-with-aws-cdk/)
-- [Is Software Contracting For You?](https://spiegelmock.com/2020/10/20/is-software-contracting-for-you/)
-- [Communication Tips for Engineers](https://spiegelmock.com/2020/07/22/communication-tips-for-engineers/)
-- [Decentralizing Social Media](https://spiegelmock.com/2020/05/28/decentralizing-social-media/)
-- [Will America Ever Be A Socialist Country?](https://spiegelmock.com/2020/02/25/will-america-ever-be-a-socialist-country/)
 <!-- BLOG-POST-LIST:END -->
 
 # 📺 Latest [Talks](https://github.com/revmischa/talks)
