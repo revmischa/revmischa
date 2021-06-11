@@ -10,7 +10,7 @@
 888     "Y8888   Y88P  888  888  888888 88888P' "Y8888P888  888"Y888888
 
 
-Updated: 6/11/2021, 9:56:26 PM UTC
+Updated: 6/11/2021, 10:21:50 PM UTC
 ```
 
 ![GitHub User's stars](https://img.shields.io/github/stars/revmischa?style=for-the-badge&logoColor=white&color=1CA2F1&logo=github)
@@ -23,11 +23,6 @@ Updated: 6/11/2021, 9:56:26 PM UTC
 
 # 📩 Latest [Blog Posts](https://spiegelmock.com)
 <!-- BLOG-POST-LIST:START -->
-- [Frameworkless Web Applications](https://spiegelmock.com/2021/05/29/frameworkless-web-applications-aws-cdk/)
-- [Web Services with AWS CDK](https://spiegelmock.com/2021/01/25/web-services-with-aws-cdk/)
-- [Is Software Contracting For You?](https://spiegelmock.com/2020/10/20/is-software-contracting-for-you/)
-- [Communication Tips for Engineers](https://spiegelmock.com/2020/07/22/communication-tips-for-engineers/)
-- [Decentralizing Social Media](https://spiegelmock.com/2020/05/28/decentralizing-social-media/)
 <!-- BLOG-POST-LIST:END -->
 
 # 📺 Latest [Talks](https://github.com/revmischa/talks)
