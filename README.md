@@ -1,18 +1,15 @@
 ```
 
-
-                             o               8
-                                             8
-oPYo. .oPYo. o    o ooYoYo. o8 .oPYo. .oPYo. 8oPYo. .oPYo.
-8  `' 8oooo8 Y.  .P 8' 8  8  8 Yb..   8    ' 8    8 .oooo8
-8     8.     `b..d' 8  8  8  8   'Yb. 8    . 8    8 8    8
-8     `Yooo'  `YP'  8  8  8  8 `YooP' `YooP' 8    8 `YooP8
-..:::::.....:::...::..:..:..:..:.....::.....:..:::..:.....:
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+::::::::: :::::::::::::     :::  :::   :::  :::::::::::::::::::  :::::::: :::    :::    :::
+:+:    :+::+:       :+:     :+: :+:+: :+:+:     :+:   :+:    :+::+:    :+::+:    :+:  :+: :+:
++:+    +:++:+       +:+     +:++:+ +:+:+ +:+    +:+   +:+       +:+       +:+    +:+ +:+   +:+
++#++:++#: +#++:++#  +#+     +:++#+  +:+  +#+    +#+   +#++:++#+++#+       +#++:++#+++#++:++#++:
++#+    +#++#+        +#+   +#+ +#+       +#+    +#+          +#++#+       +#+    +#++#+     +#+
+#+#    #+##+#         #+#+#+#  #+#       #+#    #+#   #+#    #+##+#    #+##+#    #+##+#     #+#
+###    #############    ###    ###       ######################  ######## ###    ######     ###
 
 
-Updated: 6/13/2021, 3:55:41 AM UTC
+Updated: 6/13/2021, 4:22:34 AM UTC
 ```
 
 ![GitHub User's stars](https://img.shields.io/github/stars/revmischa?style=for-the-badge&logoColor=white&color=1CA2F1&logo=github)
@@ -25,11 +22,6 @@ Updated: 6/13/2021, 3:55:41 AM UTC
 
 # 📩 Latest [Blog Posts](https://spiegelmock.com)
 <!-- BLOG-POST-LIST:START -->
-- [Frameworkless Web Applications](https://spiegelmock.com/2021/05/29/frameworkless-web-applications-aws-cdk/)
-- [Web Services with AWS CDK](https://spiegelmock.com/2021/01/25/web-services-with-aws-cdk/)
-- [Is Software Contracting For You?](https://spiegelmock.com/2020/10/20/is-software-contracting-for-you/)
-- [Communication Tips for Engineers](https://spiegelmock.com/2020/07/22/communication-tips-for-engineers/)
-- [Decentralizing Social Media](https://spiegelmock.com/2020/05/28/decentralizing-social-media/)
 <!-- BLOG-POST-LIST:END -->
 
 # 📺 Latest [Talks](https://github.com/revmischa/talks)
