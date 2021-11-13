@@ -19,6 +19,11 @@ Updated: 11/13/2021, 11:49:32 AM UTC
 
 # 📩 Latest [Blog Posts](https://spiegelmock.com)
 <!-- BLOG-POST-LIST:START -->
+- [How to Trade Crypto in Your Sleep With Python](https://spiegelmock.com/2021/11/09/how-to-trade-crypto-in-your-sleep-with-python/)
+- [Frameworkless Web Applications](https://spiegelmock.com/2021/05/29/frameworkless-web-applications-aws-cdk/)
+- [Web Services with AWS CDK](https://spiegelmock.com/2021/01/25/web-services-with-aws-cdk/)
+- [Is Software Contracting For You?](https://spiegelmock.com/2020/10/20/is-software-contracting-for-you/)
+- [Communication Tips for Engineers](https://spiegelmock.com/2020/07/22/communication-tips-for-engineers/)
 <!-- BLOG-POST-LIST:END -->
 
 # 📺 Latest [Talks](https://github.com/revmischa/talks)
