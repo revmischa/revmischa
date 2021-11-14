@@ -1,27 +1,11 @@
 ```
 
-                                                                                     *
-                                                       *                           **
-                       **                             ***                          **
-                       **                              *                           **
-***  ****               **    ***                               ****               **
- **** **** *    ***      **    ***  *** **** ****    ***       * **** *    ****    **  ***      ****
-  **   ****    * ***     **     ***  *** **** ***  *  ***     **  ****    * ***  * ** * ***    * ***  *
-  **          *   ***    **      **   **  **** ****    **    ****        *   ****  ***   ***  *   ****
-  **         **    ***   **      **   **   **   **     **      ***      **         **     ** **    **
-  **         ********    **      **   **   **   **     **        ***    **         **     ** **    **
-  **         *******     **      **   **   **   **     **          ***  **         **     ** **    **
-  **         **          **      *    **   **   **     **     ****  **  **         **     ** **    **
-  ***        ****    *    *******     **   **   **     **    * **** *   ***     *  **     ** **    **
-   ***        *******      *****      ***  ***  ***    *** *    ****     *******   **     **  ***** **
-               *****                   ***  ***  ***    ***               *****     **    **   ***   **
-                                                                                          *
-                                                                                         *
-                                                                                        *
-                                                                                       *
+                            /
+ __  _ , _______  o _   _. /_  __.
+/ (_</_\// / / <_<_/_)_(__/ /_(_/|_
 
 
-Updated: 11/14/2021, 2:08:07 AM UTC
+Updated: 11/14/2021, 2:40:31 AM UTC
 ```
 
 ![GitHub User's stars](https://img.shields.io/github/stars/revmischa?style=for-the-badge&logoColor=white&color=1CA2F1&logo=github)
@@ -34,11 +18,6 @@ Updated: 11/14/2021, 2:08:07 AM UTC
 
 # 📩 Latest [Blog Posts](https://spiegelmock.com)
 <!-- BLOG-POST-LIST:START -->
-- [How to Trade Crypto in Your Sleep With Python](https://spiegelmock.com/2021/11/09/how-to-trade-crypto-in-your-sleep-with-python/)
-- [Frameworkless Web Applications](https://spiegelmock.com/2021/05/29/frameworkless-web-applications-aws-cdk/)
-- [Web Services with AWS CDK](https://spiegelmock.com/2021/01/25/web-services-with-aws-cdk/)
-- [Is Software Contracting For You?](https://spiegelmock.com/2020/10/20/is-software-contracting-for-you/)
-- [Communication Tips for Engineers](https://spiegelmock.com/2020/07/22/communication-tips-for-engineers/)
 <!-- BLOG-POST-LIST:END -->
 
 # 📺 Latest [Talks](https://github.com/revmischa/talks)
