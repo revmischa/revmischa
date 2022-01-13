@@ -31,6 +31,7 @@ Updated: 1/13/2022, 7:57:11 AM UTC
 <!-- BLOG-POST-LIST:END -->
 
 # 📺 Latest [Talks](https://github.com/revmischa/talks)
+- [Introduction to Solidity Smart Contracts](https://www.youtube.com/watch?v=nr5GyrdtL_U)
 - [Building A Real-World IoT Application From Start to Finish With AWS](https://www.youtube.com/watch?v=vJ4Gjn0Bmi0)
 - [Serverless Application Architecture](https://www.youtube.com/watch?v=rXPwLZJ9l2M)
 - [Intro to AWS Lambda](https://www.youtube.com/watch?v=bGzty_IUDP0)
