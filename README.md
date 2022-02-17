@@ -1,12 +1,14 @@
 ```
 
-                       _           _
- _ _  ___  _ _ ._ _ _ <_> ___ ___ | |_  ___
-| '_>/ ._>| | || ' ' || |<_-</ | '| . |<_> |
-|_|  \___.|__/ |_|_|_||_|/__/\_|_.|_|_|<___|
+:::::::..  .,:::::::::      .::..        :   ::: .::::::.   .,-:::::   ::   .:   :::.
+;;;;``;;;; ;;;;''''';;,   ,;;;' ;;,.    ;;;  ;;;;;;`    ` ,;;;'````'  ,;;   ;;,  ;;`;;
+ [[[,/[[['  [[cccc  \[[  .[[/   [[[[, ,[[[[, [[['[==/[[[[,[[[        ,[[[,,,[[[ ,[[ '[[,
+ $$$c    $""""   Y$c.$"    $$$$"$$ $$  '''    $$        "$$"""$$c$$cc$$c
+ 888b "88bo,888oo,__  Y88P      888 Y88" 888o888 88b    dP`88bo,__,o, 888   "88o888   888,
+ MMMM   "W" """"YUMMM  MP       MMM  M'  "MMMMMM  "YMmMY"   "YUMMMMMP"MMM    YMMYMM   ""`
 
 
-Updated: 2/17/2022, 9:26:48 PM UTC
+Updated: 2/17/2022, 9:35:13 PM UTC
 ```
 
 ![GitHub User's stars](https://img.shields.io/github/stars/revmischa?style=for-the-badge&logoColor=white&color=1CA2F1&logo=github)
@@ -19,11 +21,6 @@ Updated: 2/17/2022, 9:26:48 PM UTC
 
 # 📩 Latest [Blog Posts](https://spiegelmock.com)
 <!-- BLOG-POST-LIST:START -->
-- [What’s Really Going on the Ukrainian Border?](https://spiegelmock.com/2022/02/17/whats-really-going-on-the-ukrainian-border/)
-- [What is Web3? Should You Care?](https://spiegelmock.com/2021/11/24/what-is-web3-should-you-care/)
-- [How to Trade Crypto in Your Sleep With Python](https://spiegelmock.com/2021/11/09/how-to-trade-crypto-in-your-sleep-with-python/)
-- [Frameworkless Web Applications](https://spiegelmock.com/2021/05/29/frameworkless-web-applications-aws-cdk/)
-- [Web Services with AWS CDK](https://spiegelmock.com/2021/01/25/web-services-with-aws-cdk/)
 <!-- BLOG-POST-LIST:END -->
 
 # 📺 Latest [Talks](https://github.com/revmischa/talks)
