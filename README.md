@@ -1,12 +1,11 @@
 ```
 
-                       _           _
- _ _  ___  _ _ ._ _ _ <_> ___ ___ | |_  ___
-| '_>/ ._>| | || ' ' || |<_-</ | '| . |<_> |
-|_|  \___.|__/ |_|_|_||_|/__/\_|_.|_|_|<___|
+                            /
+ __  _ , _______  o _   _. /_  __.
+/ (_</_\// / / <_<_/_)_(__/ /_(_/|_
 
 
-Updated: 2/27/2022, 1:36:24 PM UTC
+Updated: 2/27/2022, 1:44:19 PM UTC
 ```
 
 ![GitHub User's stars](https://img.shields.io/github/stars/revmischa?style=for-the-badge&logoColor=white&color=1CA2F1&logo=github)
@@ -19,11 +18,6 @@ Updated: 2/27/2022, 1:36:24 PM UTC
 
 # 📩 Latest [Blog Posts](https://spiegelmock.com)
 <!-- BLOG-POST-LIST:START -->
-- [Hilarious Hijinks and Highlights from the Russia/Ukraine War](https://spiegelmock.com/2022/02/27/hilarious-hijinks-and-highlights-from-the-russia-ukraine-war/)
-- [What’s Really Going on on the Ukrainian Border?](https://spiegelmock.com/2022/02/17/whats-really-going-on-the-ukrainian-border/)
-- [What is Web3? Should You Care?](https://spiegelmock.com/2021/11/24/what-is-web3-should-you-care/)
-- [How to Trade Crypto in Your Sleep With Python](https://spiegelmock.com/2021/11/09/how-to-trade-crypto-in-your-sleep-with-python/)
-- [Frameworkless Web Applications](https://spiegelmock.com/2021/05/29/frameworkless-web-applications-aws-cdk/)
 <!-- BLOG-POST-LIST:END -->
 
 # 📺 Latest [Talks](https://github.com/revmischa/talks)
