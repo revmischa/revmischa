@@ -1,16 +1,14 @@
 ```
 
-  ########::'########:'##::::'##:'##::::'##:'####::'######:::'######::'##::::'##::::'###::::
-  ##.... ##: ##.....:: ##:::: ##: ###::'###:. ##::'##... ##:'##... ##: ##:::: ##:::'## ##:::
-  ##:::: ##: ##::::::: ##:::: ##: ####'####:: ##:: ##:::..:: ##:::..:: ##:::: ##::'##:. ##::
-  ########:: ######::: ##:::: ##: ## ### ##:: ##::. ######:: ##::::::: #########:'##:::. ##:
-  ##.. ##::: ##...::::. ##:: ##:: ##. #: ##:: ##:::..... ##: ##::::::: ##.... ##: #########:
-  ##::. ##:: ##::::::::. ## ##::: ##:.:: ##:: ##::'##::: ##: ##::: ##: ##:::: ##: ##.... ##:
-  ##:::. ##: ########:::. ###:::: ##:::: ##:'####:. ######::. ######:: ##:::: ##: ##:::: ##:
- ..:::::..::........:::::...:::::..:::::..::....:::......::::......:::..:::::..::..:::::..::
- 
+:::::::..  .,:::::::::      .::..        :   ::: .::::::.   .,-:::::   ::   .:   :::.
+;;;;``;;;; ;;;;''''';;,   ,;;;' ;;,.    ;;;  ;;;;;;`    ` ,;;;'````'  ,;;   ;;,  ;;`;;
+ [[[,/[[['  [[cccc  \[[  .[[/   [[[[, ,[[[[, [[['[==/[[[[,[[[        ,[[[,,,[[[ ,[[ '[[,
+ $$$c    $""""   Y$c.$"    $$$$"$$ $$  '''    $$        "$$"""$$c$$cc$$c
+ 888b "88bo,888oo,__  Y88P      888 Y88" 888o888 88b    dP`88bo,__,o, 888   "88o888   888,
+ MMMM   "W" """"YUMMM  MP       MMM  M'  "MMMMMM  "YMmMY"   "YUMMMMMP"MMM    YMMYMM   ""`
 
-Updated: 12/21/2022, 7:16:12 AM UTC
+
+Updated: 12/21/2022, 7:24:30 AM UTC
 ```
 
 ![GitHub User's stars](https://img.shields.io/github/stars/revmischa?style=for-the-badge&logoColor=white&color=1CA2F1&logo=github)
@@ -23,11 +21,6 @@ Updated: 12/21/2022, 7:16:12 AM UTC
 
 # 📩 Latest [Blog Posts](https://spiegelmock.com)
 <!-- BLOG-POST-LIST:START -->
-- [War and Ukrainian Linguistic Changes](https://spiegelmock.com/2022/05/01/war-and-ukrainian-linguistic-changes/)
-- [Another Attempted Russian Genocide of Ukrainians](https://spiegelmock.com/2022/03/20/another-attempted-russian-genocide-of-ukrainians/)
-- [What The Hell Is Going On With The Russian Army?](https://spiegelmock.com/2022/02/27/hilarious-hijinks-and-highlights-from-the-russia-ukraine-war/)
-- [What’s Really Going on on the Ukrainian Border?](https://spiegelmock.com/2022/02/17/whats-really-going-on-the-ukrainian-border/)
-- [What is Web3? Should You Care?](https://spiegelmock.com/2021/11/24/what-is-web3-should-you-care/)
 <!-- BLOG-POST-LIST:END -->
 
 # 📺 Latest [Talks](https://github.com/revmischa/talks)
