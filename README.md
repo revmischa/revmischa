@@ -1,27 +1,23 @@
 ```
 
-                                                                             /
-                                                #                          #/
-                                               ###                         ##
-                   ##                           #                          ##
-                   ##                                                      ##
-###  /###     /##   ##    ### ### /### /###   ###        /###      /###    ##  /##      /###
- ###/ #### / / ###   ##    ### ##/ ###/ /##  / ###      / #### /  / ###  / ## / ###    / ###  /
-  ##   ###/ /   ###  ##     ### ##  ###/ ###/   ##     ##  ###/  /   ###/  ##/   ###  /   ###/
-  ##       ##    ### ##      ## ##   ##   ##    ##    ####      ##         ##     ## ##    ##
-  ##       ########  ##      ## ##   ##   ##    ##      ###     ##         ##     ## ##    ##
-  ##       #######   ##      ## ##   ##   ##    ##        ###   ##         ##     ## ##    ##
-  ##       ##        ##      ## ##   ##   ##    ##          ### ##         ##     ## ##    ##
-  ##       ####    / ##      /  ##   ##   ##    ##     /###  ## ###     /  ##     ## ##    /#
-  ###       ######/   ######/   ###  ###  ###   ### / / #### /   ######/   ##     ##  ####/ ##
-   ###       #####     #####     ###  ###  ###   ##/     ###/     #####     ##    ##   ###   ##
-                                                                                  /
-                                                                                 /
-                                                                                /
-                                                                               /
+                           _                                .       .x+=:.
+                          u                                @88>    z`    ^%              .uef^"
+   .u    .               88Nu.   u.     ..    .     :      %8P        .   <k           :d88E
+ .d88B :@8c       .u    '88888.o888c  .888: x888  x888.     .       .@8Ned8"       .   `888E             u
+="8888f8888r   ud8888.   ^8888  8888 ~`8888~'888X`?888f`  .@88u   .@^%8888"   .udR88N   888E .z8k     us888u.
+  4888>'88"  :888'8888.   8888  8888   X888  888X '888>  ''888E` x88:  `)8b. <888'888k  888E~?888L .@88 "8888"
+  4888> '    d888 '88%"   8888  8888   X888  888X '888>    888E  8888N=*8888 9888 'Y"   888E  888E 9888  9888
+  4888>      8888.+"      8888  8888   X888  888X '888>    888E   %8"    R88 9888       888E  888E 9888  9888
+ .d888L .+   8888L       .8888b.888P   X888  888X '888>    888E    @8Wou 9%  9888       888E  888E 9888  9888
+ ^"8888*"    '8888c. .+   ^Y8888*""   "*88%""*88" '888!`   888&  .888888P`   ?8888u../  888E  888E 9888  9888
+    "Y"       "88888%       `Y"         `~    "    `"`     R888" `   ^"F      "8888P'  m888N= 888> "888*""888"
+                "YP'                                        ""                  "P'     `Y"   888   ^Y"   ^Y'
+                                                                                             J88"
+                                                                                             @%
+                                                                                           :"
 
 
-Updated: 12/22/2022, 7:15:33 PM UTC
+Updated: 12/22/2022, 7:23:27 PM UTC
 ```
 
 ![GitHub User's stars](https://img.shields.io/github/stars/revmischa?style=for-the-badge&logoColor=white&color=1CA2F1&logo=github)
@@ -34,11 +30,6 @@ Updated: 12/22/2022, 7:15:33 PM UTC
 
 # 📩 Latest [Blog Posts](https://spiegelmock.com)
 <!-- BLOG-POST-LIST:START -->
-- [War and Ukrainian Linguistic Changes](https://spiegelmock.com/2022/05/01/war-and-ukrainian-linguistic-changes/)
-- [Another Attempted Russian Genocide of Ukrainians](https://spiegelmock.com/2022/03/20/another-attempted-russian-genocide-of-ukrainians/)
-- [What The Hell Is Going On With The Russian Army?](https://spiegelmock.com/2022/02/27/hilarious-hijinks-and-highlights-from-the-russia-ukraine-war/)
-- [What’s Really Going on on the Ukrainian Border?](https://spiegelmock.com/2022/02/17/whats-really-going-on-the-ukrainian-border/)
-- [What is Web3? Should You Care?](https://spiegelmock.com/2021/11/24/what-is-web3-should-you-care/)
 <!-- BLOG-POST-LIST:END -->
 
 # 📺 Latest [Talks](https://github.com/revmischa/talks)
