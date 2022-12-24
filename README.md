@@ -1,18 +1,20 @@
 ```
 
+                                                     .         .
+8 888888888o.   8 8888888888 `8.`888b           ,8' ,8.       ,8.           8 8888    d888888o.       ,o888888o.    8 8888        8          .8.
+8 8888    `88.  8 8888        `8.`888b         ,8' ,888.     ,888.          8 8888  .`8888:' `88.    8888     `88.  8 8888        8         .888.
+8 8888     `88  8 8888         `8.`888b       ,8' .`8888.   .`8888.         8 8888  8.`8888.   Y8 ,8 8888       `8. 8 8888        8        :88888.
+8 8888     ,88  8 8888          `8.`888b     ,8' ,8.`8888. ,8.`8888.        8 8888  `8.`8888.     88 8888           8 8888        8       . `88888.
+8 8888.   ,88'  8 888888888888   `8.`888b   ,8' ,8'8.`8888,8^8.`8888.       8 8888   `8.`8888.    88 8888           8 8888        8      .8. `88888.
+8 888888888P'   8 8888            `8.`888b ,8' ,8' `8.`8888' `8.`8888.      8 8888    `8.`8888.   88 8888           8 8888        8     .8`8. `88888.
+8 8888`8b       8 8888             `8.`888b8' ,8'   `8.`88'   `8.`8888.     8 8888     `8.`8888.  88 8888           8 8888888888888    .8' `8. `88888.
+8 8888 `8b.     8 8888              `8.`888' ,8'     `8.`'     `8.`8888.    8 8888 8b   `8.`8888. `8 8888       .8' 8 8888        8   .8'   `8. `88888.
+8 8888   `8b.   8 8888               `8.`8' ,8'       `8        `8.`8888.   8 8888 `8b.  ;8.`8888    8888     ,88'  8 8888        8  .888888888. `88888.
+8 8888     `88. 8 888888888888        `8.` ,8'         `         `8.`8888.  8 8888  `Y8888P ,88P'     `8888888P'    8 8888        8 .8'       `8. `88888.
 
-                             o               8
-                                             8
-oPYo. .oPYo. o    o ooYoYo. o8 .oPYo. .oPYo. 8oPYo. .oPYo.
-8  `' 8oooo8 Y.  .P 8' 8  8  8 Yb..   8    ' 8    8 .oooo8
-8     8.     `b..d' 8  8  8  8   'Yb. 8    . 8    8 8    8
-8     `Yooo'  `YP'  8  8  8  8 `YooP' `YooP' 8    8 `YooP8
-..:::::.....:::...::..:..:..:..:.....::.....:..:::..:.....:
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 
-Updated: 12/24/2022, 10:43:09 AM UTC
+Updated: 12/24/2022, 10:53:14 AM UTC
 ```
 
 ![GitHub User's stars](https://img.shields.io/github/stars/revmischa?style=for-the-badge&logoColor=white&color=1CA2F1&logo=github)
@@ -25,11 +27,6 @@ Updated: 12/24/2022, 10:43:09 AM UTC
 
 # 📩 Latest [Blog Posts](https://spiegelmock.com)
 <!-- BLOG-POST-LIST:START -->
-- [War and Ukrainian Linguistic Changes](https://spiegelmock.com/2022/05/01/war-and-ukrainian-linguistic-changes/)
-- [Another Attempted Russian Genocide of Ukrainians](https://spiegelmock.com/2022/03/20/another-attempted-russian-genocide-of-ukrainians/)
-- [What The Hell Is Going On With The Russian Army?](https://spiegelmock.com/2022/02/27/hilarious-hijinks-and-highlights-from-the-russia-ukraine-war/)
-- [What’s Really Going on on the Ukrainian Border?](https://spiegelmock.com/2022/02/17/whats-really-going-on-the-ukrainian-border/)
-- [What is Web3? Should You Care?](https://spiegelmock.com/2021/11/24/what-is-web3-should-you-care/)
 <!-- BLOG-POST-LIST:END -->
 
 # 📺 Latest [Talks](https://github.com/revmischa/talks)
