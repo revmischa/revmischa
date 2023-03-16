@@ -1,15 +1,14 @@
 ```
 
-                                                    __
-                                 __                /\ \
- _ __    __   __  __    ___ ___ /\_\    ____    ___\ \ \___      __
-/\`'__\/'__`\/\ \/\ \ /' __` __`\/\ \  /',__\  /'___\ \  _ `\  /'__`\
-\ \ \//\  __/\ \ \_/ |/\ \/\ \/\ \ \ \/\__, `\/\ \__/\ \ \ \ \/\ \L\.\_
- \ \_\\ \____\\ \___/ \ \_\ \_\ \_\ \_\/\____/\ \____\\ \_\ \_\ \__/.\_\
-  \/_/ \/____/ \/__/   \/_/\/_/\/_/\/_/\/___/  \/____/ \/_/\/_/\/__/\/_/
+:::::::..  .,:::::::::      .::..        :   ::: .::::::.   .,-:::::   ::   .:   :::.
+;;;;``;;;; ;;;;''''';;,   ,;;;' ;;,.    ;;;  ;;;;;;`    ` ,;;;'````'  ,;;   ;;,  ;;`;;
+ [[[,/[[['  [[cccc  \[[  .[[/   [[[[, ,[[[[, [[['[==/[[[[,[[[        ,[[[,,,[[[ ,[[ '[[,
+ $$$c    $""""   Y$c.$"    $$$$"$$ $$  '''    $$        "$$"""$$c$$cc$$c
+ 888b "88bo,888oo,__  Y88P      888 Y88" 888o888 88b    dP`88bo,__,o, 888   "88o888   888,
+ MMMM   "W" """"YUMMM  MP       MMM  M'  "MMMMMM  "YMmMY"   "YUMMMMMP"MMM    YMMYMM   ""`
 
 
-Updated: 3/16/2023, 1:54:15 PM UTC
+Updated: 3/16/2023, 2:04:22 PM UTC
 ```
 
 ![GitHub User's stars](https://img.shields.io/github/stars/revmischa?style=for-the-badge&logoColor=white&color=1CA2F1&logo=github)
@@ -22,11 +21,6 @@ Updated: 3/16/2023, 1:54:15 PM UTC
 
 # 📩 Latest [Blog Posts](https://spiegelmock.com)
 <!-- BLOG-POST-LIST:START -->
-- [Create a Test User in Cognito](https://spiegelmock.com/2023/01/16/create-a-test-user-in-cognito/)
-- [War and Ukrainian Linguistic Changes](https://spiegelmock.com/2022/05/01/war-and-ukrainian-linguistic-changes/)
-- [Another Attempted Russian Genocide of Ukrainians](https://spiegelmock.com/2022/03/20/another-attempted-russian-genocide-of-ukrainians/)
-- [What The Hell Is Going On With The Russian Army?](https://spiegelmock.com/2022/02/27/hilarious-hijinks-and-highlights-from-the-russia-ukraine-war/)
-- [What’s Really Going on on the Ukrainian Border?](https://spiegelmock.com/2022/02/17/whats-really-going-on-the-ukrainian-border/)
 <!-- BLOG-POST-LIST:END -->
 
 # 📺 Latest [Talks](https://github.com/revmischa/talks)
