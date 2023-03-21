@@ -1,18 +1,12 @@
 ```
 
-
-                             o               8
-                                             8
-oPYo. .oPYo. o    o ooYoYo. o8 .oPYo. .oPYo. 8oPYo. .oPYo.
-8  `' 8oooo8 Y.  .P 8' 8  8  8 Yb..   8    ' 8    8 .oooo8
-8     8.     `b..d' 8  8  8  8   'Yb. 8    . 8    8 8    8
-8     `Yooo'  `YP'  8  8  8  8 `YooP' `YooP' 8    8 `YooP8
-..:::::.....:::...::..:..:..:..:.....::.....:..:::..:.....:
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+                            __              __
+.----.-----.--.--.--------.|__|.-----.----.|  |--.---.-.
+|   _|  -__|  |  |        ||  ||__ --|  __||     |  _  |
+|__| |_____|\___/|__|__|__||__||_____|____||__|__|___._|
 
 
-Updated: 3/21/2023, 7:53:19 AM UTC
+Updated: 3/21/2023, 8:05:14 AM UTC
 ```
 
 ![GitHub User's stars](https://img.shields.io/github/stars/revmischa?style=for-the-badge&logoColor=white&color=1CA2F1&logo=github)
@@ -25,11 +19,6 @@ Updated: 3/21/2023, 7:53:19 AM UTC
 
 # 📩 Latest [Blog Posts](https://spiegelmock.com)
 <!-- BLOG-POST-LIST:START -->
-- [Create a Test User in Cognito](https://spiegelmock.com/2023/01/16/create-a-test-user-in-cognito/)
-- [War and Ukrainian Linguistic Changes](https://spiegelmock.com/2022/05/01/war-and-ukrainian-linguistic-changes/)
-- [Another Attempted Russian Genocide of Ukrainians](https://spiegelmock.com/2022/03/20/another-attempted-russian-genocide-of-ukrainians/)
-- [What The Hell Is Going On With The Russian Army?](https://spiegelmock.com/2022/02/27/hilarious-hijinks-and-highlights-from-the-russia-ukraine-war/)
-- [What’s Really Going on on the Ukrainian Border?](https://spiegelmock.com/2022/02/17/whats-really-going-on-the-ukrainian-border/)
 <!-- BLOG-POST-LIST:END -->
 
 # 📺 Latest [Talks](https://github.com/revmischa/talks)
