@@ -1,16 +1,12 @@
 ```
 
-  ########::'########:'##::::'##:'##::::'##:'####::'######:::'######::'##::::'##::::'###::::
-  ##.... ##: ##.....:: ##:::: ##: ###::'###:. ##::'##... ##:'##... ##: ##:::: ##:::'## ##:::
-  ##:::: ##: ##::::::: ##:::: ##: ####'####:: ##:: ##:::..:: ##:::..:: ##:::: ##::'##:. ##::
-  ########:: ######::: ##:::: ##: ## ### ##:: ##::. ######:: ##::::::: #########:'##:::. ##:
-  ##.. ##::: ##...::::. ##:: ##:: ##. #: ##:: ##:::..... ##: ##::::::: ##.... ##: #########:
-  ##::. ##:: ##::::::::. ## ##::: ##:.:: ##:: ##::'##::: ##: ##::: ##: ##:::: ##: ##.... ##:
-  ##:::. ##: ########:::. ###:::: ##:::: ##:'####:. ######::. ######:: ##:::: ##: ##:::: ##:
- ..:::::..::........:::::...:::::..:::::..::....:::......::::......:::..:::::..::..:::::..::
- 
+                       _           _
+ _ _  ___  _ _ ._ _ _ <_> ___ ___ | |_  ___
+| '_>/ ._>| | || ' ' || |<_-</ | '| . |<_> |
+|_|  \___.|__/ |_|_|_||_|/__/\_|_.|_|_|<___|
 
-Updated: 4/3/2023, 5:43:13 AM UTC
+
+Updated: 4/3/2023, 5:53:05 AM UTC
 ```
 
 ![GitHub User's stars](https://img.shields.io/github/stars/revmischa?style=for-the-badge&logoColor=white&color=1CA2F1&logo=github)
@@ -23,11 +19,6 @@ Updated: 4/3/2023, 5:43:13 AM UTC
 
 # 📩 Latest [Blog Posts](https://spiegelmock.com)
 <!-- BLOG-POST-LIST:START -->
-- [Mastering JavaScript Tree-Shaking](https://spiegelmock.com/2023/04/02/mastering-javascript-tree-shaking/)
-- [Create a Test User in Cognito](https://spiegelmock.com/2023/01/16/create-a-test-user-in-cognito/)
-- [War and Ukrainian Linguistic Changes](https://spiegelmock.com/2022/05/01/war-and-ukrainian-linguistic-changes/)
-- [Another Attempted Russian Genocide of Ukrainians](https://spiegelmock.com/2022/03/20/another-attempted-russian-genocide-of-ukrainians/)
-- [What The Hell Is Going On With The Russian Army?](https://spiegelmock.com/2022/02/27/hilarious-hijinks-and-highlights-from-the-russia-ukraine-war/)
 <!-- BLOG-POST-LIST:END -->
 
 # 📺 Latest [Talks](https://github.com/revmischa/talks)
