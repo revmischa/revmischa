@@ -1,20 +1,13 @@
 ```
 
-                                                     .         .
-8 888888888o.   8 8888888888 `8.`888b           ,8' ,8.       ,8.           8 8888    d888888o.       ,o888888o.    8 8888        8          .8.
-8 8888    `88.  8 8888        `8.`888b         ,8' ,888.     ,888.          8 8888  .`8888:' `88.    8888     `88.  8 8888        8         .888.
-8 8888     `88  8 8888         `8.`888b       ,8' .`8888.   .`8888.         8 8888  8.`8888.   Y8 ,8 8888       `8. 8 8888        8        :88888.
-8 8888     ,88  8 8888          `8.`888b     ,8' ,8.`8888. ,8.`8888.        8 8888  `8.`8888.     88 8888           8 8888        8       . `88888.
-8 8888.   ,88'  8 888888888888   `8.`888b   ,8' ,8'8.`8888,8^8.`8888.       8 8888   `8.`8888.    88 8888           8 8888        8      .8. `88888.
-8 888888888P'   8 8888            `8.`888b ,8' ,8' `8.`8888' `8.`8888.      8 8888    `8.`8888.   88 8888           8 8888        8     .8`8. `88888.
-8 8888`8b       8 8888             `8.`888b8' ,8'   `8.`88'   `8.`8888.     8 8888     `8.`8888.  88 8888           8 8888888888888    .8' `8. `88888.
-8 8888 `8b.     8 8888              `8.`888' ,8'     `8.`'     `8.`8888.    8 8888 8b   `8.`8888. `8 8888       .8' 8 8888        8   .8'   `8. `88888.
-8 8888   `8b.   8 8888               `8.`8' ,8'       `8        `8.`8888.   8 8888 `8b.  ;8.`8888    8888     ,88'  8 8888        8  .888888888. `88888.
-8 8888     `88. 8 888888888888        `8.` ,8'         `         `8.`8888.  8 8888  `Y8888P ,88P'     `8888888P'    8 8888        8 .8'       `8. `88888.
+                                     ||                 '||
+... ..    ....  .... ... .. .. ..   ...   ....    ....   || ..    ....
+ ||' '' .|...||  '|.  |   || || ||   ||  ||. '  .|   ''  ||' ||  '' .||
+ ||     ||        '|.|    || || ||   ||  . '|.. ||       ||  ||  .|' ||
+.||.     '|...'    '|    .|| || ||. .||. |'..|'  '|...' .||. ||. '|..'|'
 
 
-
-Updated: 4/3/2023, 6:28:00 AM UTC
+Updated: 4/3/2023, 6:40:35 AM UTC
 ```
 
 ![GitHub User's stars](https://img.shields.io/github/stars/revmischa?style=for-the-badge&logoColor=white&color=1CA2F1&logo=github)
@@ -27,11 +20,6 @@ Updated: 4/3/2023, 6:28:00 AM UTC
 
 # 📩 Latest [Blog Posts](https://spiegelmock.com)
 <!-- BLOG-POST-LIST:START -->
-- [Mastering JavaScript Tree-Shaking](https://spiegelmock.com/2023/04/02/mastering-javascript-tree-shaking/)
-- [Create a Test User in Cognito](https://spiegelmock.com/2023/01/16/create-a-test-user-in-cognito/)
-- [War and Ukrainian Linguistic Changes](https://spiegelmock.com/2022/05/01/war-and-ukrainian-linguistic-changes/)
-- [Another Attempted Russian Genocide of Ukrainians](https://spiegelmock.com/2022/03/20/another-attempted-russian-genocide-of-ukrainians/)
-- [What The Hell Is Going On With The Russian Army?](https://spiegelmock.com/2022/02/27/hilarious-hijinks-and-highlights-from-the-russia-ukraine-war/)
 <!-- BLOG-POST-LIST:END -->
 
 # 📺 Latest [Talks](https://github.com/revmischa/talks)
