@@ -31,6 +31,7 @@ Updated: 4/21/2023, 12:34:26 AM UTC
 <!-- BLOG-POST-LIST:END -->
 
 # 📺 Latest [Talks](https://github.com/revmischa/talks)
+- [Infrastructure as Code on AWS: CloudFormation and CDK Intro](https://www.youtube.com/watch?v=Lw1Q8DwEuMk)
 - [Building A Real-World IoT Application From Start to Finish With AWS](https://www.youtube.com/watch?v=vJ4Gjn0Bmi0)
 - [Serverless Application Architecture](https://www.youtube.com/watch?v=rXPwLZJ9l2M)
 - [Intro to AWS Lambda](https://www.youtube.com/watch?v=bGzty_IUDP0)
