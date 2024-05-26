@@ -1,12 +1,27 @@
 ```
 
-                            __              __
-.----.-----.--.--.--------.|__|.-----.----.|  |--.---.-.
-|   _|  -__|  |  |        ||  ||__ --|  __||     |  _  |
-|__| |_____|\___/|__|__|__||__||_____|____||__|__|___._|
+                                                                             /
+                                                #                          #/
+                                               ###                         ##
+                   ##                           #                          ##
+                   ##                                                      ##
+###  /###     /##   ##    ### ### /### /###   ###        /###      /###    ##  /##      /###
+ ###/ #### / / ###   ##    ### ##/ ###/ /##  / ###      / #### /  / ###  / ## / ###    / ###  /
+  ##   ###/ /   ###  ##     ### ##  ###/ ###/   ##     ##  ###/  /   ###/  ##/   ###  /   ###/
+  ##       ##    ### ##      ## ##   ##   ##    ##    ####      ##         ##     ## ##    ##
+  ##       ########  ##      ## ##   ##   ##    ##      ###     ##         ##     ## ##    ##
+  ##       #######   ##      ## ##   ##   ##    ##        ###   ##         ##     ## ##    ##
+  ##       ##        ##      ## ##   ##   ##    ##          ### ##         ##     ## ##    ##
+  ##       ####    / ##      /  ##   ##   ##    ##     /###  ## ###     /  ##     ## ##    /#
+  ###       ######/   ######/   ###  ###  ###   ### / / #### /   ######/   ##     ##  ####/ ##
+   ###       #####     #####     ###  ###  ###   ##/     ###/     #####     ##    ##   ###   ##
+                                                                                  /
+                                                                                 /
+                                                                                /
+                                                                               /
 
 
-Updated: 5/26/2024, 8:43:24 AM UTC
+Updated: 5/26/2024, 8:53:10 AM UTC
 ```
 
 ![GitHub User's stars](https://img.shields.io/github/stars/revmischa?style=for-the-badge&logoColor=white&color=1CA2F1&logo=github)
@@ -19,11 +34,6 @@ Updated: 5/26/2024, 8:43:24 AM UTC
 
 # 📩 Latest [Blog Posts](https://spiegelmock.com)
 <!-- BLOG-POST-LIST:START -->
-- [Will We Still Need Programmers?](https://spiegelmock.com/2024/04/07/will-we-still-need-programmers/)
-- [Mastering JavaScript Tree-Shaking](https://spiegelmock.com/2023/04/02/mastering-javascript-tree-shaking/)
-- [Create a Test User in Cognito](https://spiegelmock.com/2023/01/16/create-a-test-user-in-cognito/)
-- [War and Ukrainian Linguistic Changes](https://spiegelmock.com/2022/05/01/war-and-ukrainian-linguistic-changes/)
-- [Another Attempted Russian Genocide of Ukrainians](https://spiegelmock.com/2022/03/20/another-attempted-russian-genocide-of-ukrainians/)
 <!-- BLOG-POST-LIST:END -->
 
 # 📺 Latest [Talks](https://github.com/revmischa/talks)
