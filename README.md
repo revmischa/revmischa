@@ -1,15 +1,14 @@
 ```
 
-                                                    __
-                                 __                /\ \
- _ __    __   __  __    ___ ___ /\_\    ____    ___\ \ \___      __
-/\`'__\/'__`\/\ \/\ \ /' __` __`\/\ \  /',__\  /'___\ \  _ `\  /'__`\
-\ \ \//\  __/\ \ \_/ |/\ \/\ \/\ \ \ \/\__, `\/\ \__/\ \ \ \ \/\ \L\.\_
- \ \_\\ \____\\ \___/ \ \_\ \_\ \_\ \_\/\____/\ \____\\ \_\ \_\ \__/.\_\
-  \/_/ \/____/ \/__/   \/_/\/_/\/_/\/_/\/___/  \/____/ \/_/\/_/\/__/\/_/
+:::::::..  .,:::::::::      .::..        :   ::: .::::::.   .,-:::::   ::   .:   :::.
+;;;;``;;;; ;;;;''''';;,   ,;;;' ;;,.    ;;;  ;;;;;;`    ` ,;;;'````'  ,;;   ;;,  ;;`;;
+ [[[,/[[['  [[cccc  \[[  .[[/   [[[[, ,[[[[, [[['[==/[[[[,[[[        ,[[[,,,[[[ ,[[ '[[,
+ $$$c    $""""   Y$c.$"    $$$$"$$ $$  '''    $$        "$$"""$$c$$cc$$c
+ 888b "88bo,888oo,__  Y88P      888 Y88" 888o888 88b    dP`88bo,__,o, 888   "88o888   888,
+ MMMM   "W" """"YUMMM  MP       MMM  M'  "MMMMMM  "YMmMY"   "YUMMMMMP"MMM    YMMYMM   ""`
 
 
-Updated: 5/28/2024, 5:16:22 AM UTC
+Updated: 5/28/2024, 5:26:58 AM UTC
 ```
 
 ![GitHub User's stars](https://img.shields.io/github/stars/revmischa?style=for-the-badge&logoColor=white&color=1CA2F1&logo=github)
@@ -22,11 +21,6 @@ Updated: 5/28/2024, 5:16:22 AM UTC
 
 # 📩 Latest [Blog Posts](https://spiegelmock.com)
 <!-- BLOG-POST-LIST:START -->
-- [Will We Still Need Programmers?](https://spiegelmock.com/2024/04/07/will-we-still-need-programmers/)
-- [Mastering JavaScript Tree-Shaking](https://spiegelmock.com/2023/04/02/mastering-javascript-tree-shaking/)
-- [Create a Test User in Cognito](https://spiegelmock.com/2023/01/16/create-a-test-user-in-cognito/)
-- [War and Ukrainian Linguistic Changes](https://spiegelmock.com/2022/05/01/war-and-ukrainian-linguistic-changes/)
-- [Another Attempted Russian Genocide of Ukrainians](https://spiegelmock.com/2022/03/20/another-attempted-russian-genocide-of-ukrainians/)
 <!-- BLOG-POST-LIST:END -->
 
 # 📺 Latest [Talks](https://github.com/revmischa/talks)
