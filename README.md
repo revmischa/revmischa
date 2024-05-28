@@ -1,15 +1,11 @@
 ```
 
-::::::::: :::::::::::::     :::  :::   :::  :::::::::::::::::::  :::::::: :::    :::    :::
-:+:    :+::+:       :+:     :+: :+:+: :+:+:     :+:   :+:    :+::+:    :+::+:    :+:  :+: :+:
-+:+    +:++:+       +:+     +:++:+ +:+:+ +:+    +:+   +:+       +:+       +:+    +:+ +:+   +:+
-+#++:++#: +#++:++#  +#+     +:++#+  +:+  +#+    +#+   +#++:++#+++#+       +#++:++#+++#++:++#++:
-+#+    +#++#+        +#+   +#+ +#+       +#+    +#+          +#++#+       +#+    +#++#+     +#+
-#+#    #+##+#         #+#+#+#  #+#       #+#    #+#   #+#    #+##+#    #+##+#    #+##+#     #+#
-###    #############    ###    ###       ######################  ######## ###    ######     ###
+                            /
+ __  _ , _______  o _   _. /_  __.
+/ (_</_\// / / <_<_/_)_(__/ /_(_/|_
 
 
-Updated: 5/28/2024, 11:26:15 PM UTC
+Updated: 5/28/2024, 11:34:28 PM UTC
 ```
 
 ![GitHub User's stars](https://img.shields.io/github/stars/revmischa?style=for-the-badge&logoColor=white&color=1CA2F1&logo=github)
@@ -22,11 +18,6 @@ Updated: 5/28/2024, 11:26:15 PM UTC
 
 # 📩 Latest [Blog Posts](https://spiegelmock.com)
 <!-- BLOG-POST-LIST:START -->
-- [Will We Still Need Programmers?](https://spiegelmock.com/2024/04/07/will-we-still-need-programmers/)
-- [Mastering JavaScript Tree-Shaking](https://spiegelmock.com/2023/04/02/mastering-javascript-tree-shaking/)
-- [Create a Test User in Cognito](https://spiegelmock.com/2023/01/16/create-a-test-user-in-cognito/)
-- [War and Ukrainian Linguistic Changes](https://spiegelmock.com/2022/05/01/war-and-ukrainian-linguistic-changes/)
-- [Another Attempted Russian Genocide of Ukrainians](https://spiegelmock.com/2022/03/20/another-attempted-russian-genocide-of-ukrainians/)
 <!-- BLOG-POST-LIST:END -->
 
 # 📺 Latest [Talks](https://github.com/revmischa/talks)
