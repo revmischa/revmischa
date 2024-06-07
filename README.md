@@ -1,18 +1,12 @@
 ```
 
-
-                             o               8
-                                             8
-oPYo. .oPYo. o    o ooYoYo. o8 .oPYo. .oPYo. 8oPYo. .oPYo.
-8  `' 8oooo8 Y.  .P 8' 8  8  8 Yb..   8    ' 8    8 .oooo8
-8     8.     `b..d' 8  8  8  8   'Yb. 8    . 8    8 8    8
-8     `Yooo'  `YP'  8  8  8  8 `YooP' `YooP' 8    8 `YooP8
-..:::::.....:::...::..:..:..:..:.....::.....:..:::..:.....:
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+                       _           _
+ _ _  ___  _ _ ._ _ _ <_> ___ ___ | |_  ___
+| '_>/ ._>| | || ' ' || |<_-</ | '| . |<_> |
+|_|  \___.|__/ |_|_|_||_|/__/\_|_.|_|_|<___|
 
 
-Updated: 6/7/2024, 1:07:44 PM UTC
+Updated: 6/7/2024, 1:20:05 PM UTC
 ```
 
 ![GitHub User's stars](https://img.shields.io/github/stars/revmischa?style=for-the-badge&logoColor=white&color=1CA2F1&logo=github)
