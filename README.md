@@ -19,6 +19,11 @@ Updated: 8/15/2024, 10:28:00 PM UTC
 
 # 📩 Latest [Blog Posts](https://spiegelmock.com)
 <!-- BLOG-POST-LIST:START -->
+- [Updates in the JS ecosystem around the recently-released Node 22 and V8](https://spiegelmock.com/2024/05/29/updates-in-the-js-ecosystem-around-the-recently-released-node-22-and-v8/)
+- [Will We Still Need Programmers?](https://spiegelmock.com/2024/04/07/will-we-still-need-programmers/)
+- [Mastering JavaScript Tree-Shaking](https://spiegelmock.com/2023/04/02/mastering-javascript-tree-shaking/)
+- [Create a Test User in Cognito](https://spiegelmock.com/2023/01/16/create-a-test-user-in-cognito/)
+- [War and Ukrainian Linguistic Changes](https://spiegelmock.com/2022/05/01/war-and-ukrainian-linguistic-changes/)
 <!-- BLOG-POST-LIST:END -->
 
 # 📺 Latest [Talks](https://github.com/revmischa/talks)
