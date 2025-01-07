@@ -1,23 +1,15 @@
 ```
 
-                           _                                .       .x+=:.
-                          u                                @88>    z`    ^%              .uef^"
-   .u    .               88Nu.   u.     ..    .     :      %8P        .   <k           :d88E
- .d88B :@8c       .u    '88888.o888c  .888: x888  x888.     .       .@8Ned8"       .   `888E             u
-="8888f8888r   ud8888.   ^8888  8888 ~`8888~'888X`?888f`  .@88u   .@^%8888"   .udR88N   888E .z8k     us888u.
-  4888>'88"  :888'8888.   8888  8888   X888  888X '888>  ''888E` x88:  `)8b. <888'888k  888E~?888L .@88 "8888"
-  4888> '    d888 '88%"   8888  8888   X888  888X '888>    888E  8888N=*8888 9888 'Y"   888E  888E 9888  9888
-  4888>      8888.+"      8888  8888   X888  888X '888>    888E   %8"    R88 9888       888E  888E 9888  9888
- .d888L .+   8888L       .8888b.888P   X888  888X '888>    888E    @8Wou 9%  9888       888E  888E 9888  9888
- ^"8888*"    '8888c. .+   ^Y8888*""   "*88%""*88" '888!`   888&  .888888P`   ?8888u../  888E  888E 9888  9888
-    "Y"       "88888%       `Y"         `~    "    `"`     R888" `   ^"F      "8888P'  m888N= 888> "888*""888"
-                "YP'                                        ""                  "P'     `Y"   888   ^Y"   ^Y'
-                                                                                             J88"
-                                                                                             @%
-                                                                                           :"
+::::::::: :::::::::::::     :::  :::   :::  :::::::::::::::::::  :::::::: :::    :::    :::
+:+:    :+::+:       :+:     :+: :+:+: :+:+:     :+:   :+:    :+::+:    :+::+:    :+:  :+: :+:
++:+    +:++:+       +:+     +:++:+ +:+:+ +:+    +:+   +:+       +:+       +:+    +:+ +:+   +:+
++#++:++#: +#++:++#  +#+     +:++#+  +:+  +#+    +#+   +#++:++#+++#+       +#++:++#+++#++:++#++:
++#+    +#++#+        +#+   +#+ +#+       +#+    +#+          +#++#+       +#+    +#++#+     +#+
+#+#    #+##+#         #+#+#+#  #+#       #+#    #+#   #+#    #+##+#    #+##+#    #+##+#     #+#
+###    #############    ###    ###       ######################  ######## ###    ######     ###
 
 
-Updated: 1/7/2025, 11:43:06 PM UTC
+Updated: 1/7/2025, 11:53:09 PM UTC
 ```
 
 ![GitHub User's stars](https://img.shields.io/github/stars/revmischa?style=for-the-badge&logoColor=white&color=1CA2F1&logo=github)
@@ -30,11 +22,6 @@ Updated: 1/7/2025, 11:43:06 PM UTC
 
 # 📩 Latest [Blog Posts](https://spiegelmock.com)
 <!-- BLOG-POST-LIST:START -->
-- [Embedded Project: Lightbulb Controller](https://spiegelmock.com/2024/09/29/embedded-project-lightbulb-controller/)
-- [A Balanced Look at GraphQL](https://spiegelmock.com/2024/09/29/a-balanced-look-at-graphql/)
-- [Updates in the JS ecosystem around the recently-released Node 22 and V8](https://spiegelmock.com/2024/05/29/updates-in-the-js-ecosystem-around-the-recently-released-node-22-and-v8/)
-- [Will We Still Need Programmers?](https://spiegelmock.com/2024/04/07/will-we-still-need-programmers/)
-- [Mastering JavaScript Tree-Shaking](https://spiegelmock.com/2023/04/02/mastering-javascript-tree-shaking/)
 <!-- BLOG-POST-LIST:END -->
 
 # 📺 Latest [Talks](https://github.com/revmischa/talks)
