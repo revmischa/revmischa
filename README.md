@@ -1,13 +1,12 @@
 ```
 
-                                     ||                 '||
-... ..    ....  .... ... .. .. ..   ...   ....    ....   || ..    ....
- ||' '' .|...||  '|.  |   || || ||   ||  ||. '  .|   ''  ||' ||  '' .||
- ||     ||        '|.|    || || ||   ||  . '|.. ||       ||  ||  .|' ||
-.||.     '|...'    '|    .|| || ||. .||. |'..|'  '|...' .||. ||. '|..'|'
+                       _           _
+ _ _  ___  _ _ ._ _ _ <_> ___ ___ | |_  ___
+| '_>/ ._>| | || ' ' || |<_-</ | '| . |<_> |
+|_|  \___.|__/ |_|_|_||_|/__/\_|_.|_|_|<___|
 
 
-Updated: 1/13/2025, 5:05:28 AM UTC
+Updated: 1/13/2025, 5:17:11 AM UTC
 ```
 
 ![GitHub User's stars](https://img.shields.io/github/stars/revmischa?style=for-the-badge&logoColor=white&color=1CA2F1&logo=github)
@@ -20,11 +19,6 @@ Updated: 1/13/2025, 5:05:28 AM UTC
 
 # 📩 Latest [Blog Posts](https://spiegelmock.com)
 <!-- BLOG-POST-LIST:START -->
-- [Embedded Project: Lightbulb Controller](https://spiegelmock.com/2024/09/29/embedded-project-lightbulb-controller/)
-- [A Balanced Look at GraphQL](https://spiegelmock.com/2024/09/29/a-balanced-look-at-graphql/)
-- [Updates in the JS ecosystem around the recently-released Node 22 and V8](https://spiegelmock.com/2024/05/29/updates-in-the-js-ecosystem-around-the-recently-released-node-22-and-v8/)
-- [Will We Still Need Programmers?](https://spiegelmock.com/2024/04/07/will-we-still-need-programmers/)
-- [Mastering JavaScript Tree-Shaking](https://spiegelmock.com/2023/04/02/mastering-javascript-tree-shaking/)
 <!-- BLOG-POST-LIST:END -->
 
 # 📺 Latest [Talks](https://github.com/revmischa/talks)
