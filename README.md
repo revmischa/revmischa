@@ -23,6 +23,11 @@ Updated: 1/15/2025, 11:04:51 PM UTC
 
 # 📩 Latest [Blog Posts](https://spiegelmock.com)
 <!-- BLOG-POST-LIST:START -->
+- [Embedded Project: Lightbulb Controller](https://spiegelmock.com/2024/09/29/embedded-project-lightbulb-controller/)
+- [A Balanced Look at GraphQL](https://spiegelmock.com/2024/09/29/a-balanced-look-at-graphql/)
+- [Updates in the JS ecosystem around the recently-released Node 22 and V8](https://spiegelmock.com/2024/05/29/updates-in-the-js-ecosystem-around-the-recently-released-node-22-and-v8/)
+- [Will We Still Need Programmers?](https://spiegelmock.com/2024/04/07/will-we-still-need-programmers/)
+- [Mastering JavaScript Tree-Shaking](https://spiegelmock.com/2023/04/02/mastering-javascript-tree-shaking/)
 <!-- BLOG-POST-LIST:END -->
 
 # 📺 Latest [Talks](https://github.com/revmischa/talks)
