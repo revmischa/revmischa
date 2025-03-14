@@ -22,6 +22,11 @@ Updated: 3/14/2025, 4:32:19 PM UTC
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-informational?style=for-the-badge&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/spiegelmock/)
 
 
+# 📦 Open Source Modules
+- 🦀 Rust [Crates](https://crates.io/users/revmischa)
+- ☕ TypeScript [NPM](https://www.npmjs.com/settings/cybermischa/packages)
+- 🐍 Python [PyPI](https://pypi.org/user/revmischa/)
+- 🐫 Perl [CPAN](https://metacpan.org/author/REVMISCHA)
 
 # 📩 Latest [Blog Posts](https://spiegelmock.com)
 <!-- BLOG-POST-LIST:START -->
@@ -38,9 +43,3 @@ Updated: 3/14/2025, 4:32:19 PM UTC
 - [Intro to AWS Lambda](https://www.youtube.com/watch?v=bGzty_IUDP0)
 - [Basics of UNIX Sockets](https://www.youtube.com/watch?v=8TGV4zcd9k4)
 - [Linux Container Basics: Docker, Kubernetes](https://www.youtube.com/watch?v=3f5wWYLWOtQ)
-
-
-# Open Source Modules
-- JavaScript [NPM](https://www.npmjs.com/settings/cybermischa/packages)
-- Python [PyPI](https://pypi.org/user/revmischa/)
-- Perl CPAN(https://metacpan.org/author/REVMISCHA)
