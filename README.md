@@ -1,18 +1,27 @@
 ```
 
+                                                                             /
+                                                #                          #/
+                                               ###                         ##
+                   ##                           #                          ##
+                   ##                                                      ##
+###  /###     /##   ##    ### ### /### /###   ###        /###      /###    ##  /##      /###
+ ###/ #### / / ###   ##    ### ##/ ###/ /##  / ###      / #### /  / ###  / ## / ###    / ###  /
+  ##   ###/ /   ###  ##     ### ##  ###/ ###/   ##     ##  ###/  /   ###/  ##/   ###  /   ###/
+  ##       ##    ### ##      ## ##   ##   ##    ##    ####      ##         ##     ## ##    ##
+  ##       ########  ##      ## ##   ##   ##    ##      ###     ##         ##     ## ##    ##
+  ##       #######   ##      ## ##   ##   ##    ##        ###   ##         ##     ## ##    ##
+  ##       ##        ##      ## ##   ##   ##    ##          ### ##         ##     ## ##    ##
+  ##       ####    / ##      /  ##   ##   ##    ##     /###  ## ###     /  ##     ## ##    /#
+  ###       ######/   ######/   ###  ###  ###   ### / / #### /   ######/   ##     ##  ####/ ##
+   ###       #####     #####     ###  ###  ###   ##/     ###/     #####     ##    ##   ###   ##
+                                                                                  /
+                                                                                 /
+                                                                                /
+                                                                               /
 
-                             o               8
-                                             8
-oPYo. .oPYo. o    o ooYoYo. o8 .oPYo. .oPYo. 8oPYo. .oPYo.
-8  `' 8oooo8 Y.  .P 8' 8  8  8 Yb..   8    ' 8    8 .oooo8
-8     8.     `b..d' 8  8  8  8   'Yb. 8    . 8    8 8    8
-8     `Yooo'  `YP'  8  8  8  8 `YooP' `YooP' 8    8 `YooP8
-..:::::.....:::...::..:..:..:..:.....::.....:..:::..:.....:
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-
-Updated: 3/14/2025, 4:32:19 PM UTC
+Updated: 3/14/2025, 4:33:59 PM UTC
 ```
 
 ![GitHub User's stars](https://img.shields.io/github/stars/revmischa?style=for-the-badge&logoColor=white&color=1CA2F1&logo=github)
@@ -22,19 +31,9 @@ Updated: 3/14/2025, 4:32:19 PM UTC
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-informational?style=for-the-badge&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/spiegelmock/)
 
 
-# 📦 Open Source Modules
-- 🦀 Rust [Crates](https://crates.io/users/revmischa)
-- ☕ TypeScript [NPM](https://www.npmjs.com/settings/cybermischa/packages)
-- 🐍 Python [PyPI](https://pypi.org/user/revmischa/)
-- 🐫 Perl [CPAN](https://metacpan.org/author/REVMISCHA)
 
 # 📩 Latest [Blog Posts](https://spiegelmock.com)
 <!-- BLOG-POST-LIST:START -->
-- [Embedded Project: Lightbulb Controller](https://spiegelmock.com/2024/09/29/embedded-project-lightbulb-controller/)
-- [A Balanced Look at GraphQL](https://spiegelmock.com/2024/09/29/a-balanced-look-at-graphql/)
-- [Updates in the JS ecosystem around the recently-released Node 22 and V8](https://spiegelmock.com/2024/05/29/updates-in-the-js-ecosystem-around-the-recently-released-node-22-and-v8/)
-- [Will We Still Need Programmers?](https://spiegelmock.com/2024/04/07/will-we-still-need-programmers/)
-- [Mastering JavaScript Tree-Shaking](https://spiegelmock.com/2023/04/02/mastering-javascript-tree-shaking/)
 <!-- BLOG-POST-LIST:END -->
 
 # 📺 Latest [Talks](https://github.com/revmischa/talks)
@@ -43,3 +42,9 @@ Updated: 3/14/2025, 4:32:19 PM UTC
 - [Intro to AWS Lambda](https://www.youtube.com/watch?v=bGzty_IUDP0)
 - [Basics of UNIX Sockets](https://www.youtube.com/watch?v=8TGV4zcd9k4)
 - [Linux Container Basics: Docker, Kubernetes](https://www.youtube.com/watch?v=3f5wWYLWOtQ)
+
+
+# Open Source Modules
+- JavaScript [NPM](https://www.npmjs.com/settings/cybermischa/packages)
+- Python [PyPI](https://pypi.org/user/revmischa/)
+- Perl CPAN(https://metacpan.org/author/REVMISCHA)
